@@ -1,16 +1,13 @@
 {
   "files": {
-    "main.css": "//davidp0p.github.io/static/css/main.073c9b0a.css",
-    "main.js": "//davidp0p.github.io/static/js/main.77b616e6.js",
-    "static/js/787.62449090.chunk.js": "//davidp0p.github.io/static/js/787.62449090.chunk.js",
-    "static/media/logo.svg": "//davidp0p.github.io/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "//davidp0p.github.io/static/css/main.9f8a9876.css",
+    "main.js": "//davidp0p.github.io/static/js/main.971551bd.js",
     "index.html": "//davidp0p.github.io/index.html",
-    "main.073c9b0a.css.map": "//davidp0p.github.io/static/css/main.073c9b0a.css.map",
-    "main.77b616e6.js.map": "//davidp0p.github.io/static/js/main.77b616e6.js.map",
-    "787.62449090.chunk.js.map": "//davidp0p.github.io/static/js/787.62449090.chunk.js.map"
+    "main.9f8a9876.css.map": "//davidp0p.github.io/static/css/main.9f8a9876.css.map",
+    "main.971551bd.js.map": "//davidp0p.github.io/static/js/main.971551bd.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.77b616e6.js"
+    "static/css/main.9f8a9876.css",
+    "static/js/main.971551bd.js"
   ]
 }
