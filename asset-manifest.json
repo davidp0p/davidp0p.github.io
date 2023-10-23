@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "//davidp0p.github.io/static/css/main.0dd84668.css",
-    "main.js": "//davidp0p.github.io/static/js/main.971551bd.js",
+    "main.css": "//davidp0p.github.io/static/css/main.ead2b5af.css",
+    "main.js": "//davidp0p.github.io/static/js/main.9b732e30.js",
     "index.html": "//davidp0p.github.io/index.html",
-    "main.0dd84668.css.map": "//davidp0p.github.io/static/css/main.0dd84668.css.map",
-    "main.971551bd.js.map": "//davidp0p.github.io/static/js/main.971551bd.js.map"
+    "main.ead2b5af.css.map": "//davidp0p.github.io/static/css/main.ead2b5af.css.map",
+    "main.9b732e30.js.map": "//davidp0p.github.io/static/js/main.9b732e30.js.map"
   },
   "entrypoints": [
-    "static/css/main.0dd84668.css",
-    "static/js/main.971551bd.js"
+    "static/css/main.ead2b5af.css",
+    "static/js/main.9b732e30.js"
   ]
 }
